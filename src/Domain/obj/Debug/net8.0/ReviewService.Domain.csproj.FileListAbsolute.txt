@@ -1,0 +1,11 @@
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Domain/bin/Debug/net8.0/ReviewService.Domain.deps.json
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Domain/bin/Debug/net8.0/ReviewService.Domain.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Domain/bin/Debug/net8.0/ReviewService.Domain.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Domain/obj/Debug/net8.0/ReviewService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Domain/obj/Debug/net8.0/ReviewService.Domain.AssemblyInfoInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Domain/obj/Debug/net8.0/ReviewService.Domain.AssemblyInfo.cs
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Domain/obj/Debug/net8.0/ReviewService.Domain.csproj.CoreCompileInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Domain/obj/Debug/net8.0/ReviewService.Domain.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Domain/obj/Debug/net8.0/refint/ReviewService.Domain.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Domain/obj/Debug/net8.0/ReviewService.Domain.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Domain/obj/Debug/net8.0/ref/ReviewService.Domain.dll

@@ -1,0 +1,11 @@
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/DataProviders/bin/Debug/net8.0/ReviewService.DataProviders.deps.json
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/DataProviders/bin/Debug/net8.0/ReviewService.DataProviders.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/DataProviders/bin/Debug/net8.0/ReviewService.DataProviders.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/DataProviders/obj/Debug/net8.0/ReviewService.DataProviders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/DataProviders/obj/Debug/net8.0/ReviewService.DataProviders.AssemblyInfoInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/DataProviders/obj/Debug/net8.0/ReviewService.DataProviders.AssemblyInfo.cs
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/DataProviders/obj/Debug/net8.0/ReviewService.DataProviders.csproj.CoreCompileInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/DataProviders/obj/Debug/net8.0/ReviewService.DataProviders.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/DataProviders/obj/Debug/net8.0/refint/ReviewService.DataProviders.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/DataProviders/obj/Debug/net8.0/ReviewService.DataProviders.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/DataProviders/obj/Debug/net8.0/ref/ReviewService.DataProviders.dll

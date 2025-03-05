@@ -1,0 +1,11 @@
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Infrastructure/bin/Debug/net8.0/ReviewService.Infrastructure.deps.json
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Infrastructure/bin/Debug/net8.0/ReviewService.Infrastructure.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Infrastructure/bin/Debug/net8.0/ReviewService.Infrastructure.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Infrastructure/obj/Debug/net8.0/ReviewService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Infrastructure/obj/Debug/net8.0/ReviewService.Infrastructure.AssemblyInfoInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Infrastructure/obj/Debug/net8.0/ReviewService.Infrastructure.AssemblyInfo.cs
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Infrastructure/obj/Debug/net8.0/ReviewService.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Infrastructure/obj/Debug/net8.0/ReviewService.Infrastructure.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Infrastructure/obj/Debug/net8.0/refint/ReviewService.Infrastructure.dll
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Infrastructure/obj/Debug/net8.0/ReviewService.Infrastructure.pdb
+/Users/bogdanmihaila/Desktop/MibostarArt Project/ReviewService/src/Infrastructure/obj/Debug/net8.0/ref/ReviewService.Infrastructure.dll
